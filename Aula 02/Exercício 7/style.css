@@ -1,0 +1,31 @@
+:root{
+    --bg-color: #186B31;
+    --font-family: Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+  header{
+    font-family: var(--font-family);
+    background-color: var(--bg-color);
+  }
+
+  .container{
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+.card{
+    text-align: justify;
+}
+
+.card img{
+    height: 10rem;    
+    width: 18rem;
+}
+
