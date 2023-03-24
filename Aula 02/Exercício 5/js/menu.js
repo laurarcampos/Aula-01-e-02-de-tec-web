@@ -8,7 +8,7 @@ document.querySelector("#navbar").innerHTML = `
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                  <a class="nav-link" href="/./index.html">Voltar para o menu com todas as atividades</a>    
+                  <a class="nav-link" href="././index.html">Voltar para o menu com todas as atividades</a>    
                 </li>
                 <li class="nav-item active">
                   <a class="nav-link" href="./grade.html">Grade horária</a>
